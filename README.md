@@ -18,7 +18,7 @@
 
 ## 報告方式
 
-在這邊的 [Issues](https://github.com/Lidemy/mentor-daily-report/issues) 裡面，每天凌晨都會有一個機器人建立的 Issue，標題為：「[進度報告] 2018-xx-xx」，只要用你的 GitHub 帳號在這個 Issue 底下留言即可，你的留言會自動被同步到 Slack 中的群組，也會被記錄到 [Google 試算表](https://docs.google.com/spreadsheets/d/1-yuiwdubomd-q9S6oGTbje9QZG4bJW84vWcUqOcnz58/edit?usp=sharing)裡面。
+在這邊的 [Issues](https://github.com/Lidemy/mentor-daily-report/issues) 裡面，每天早上 08:05 都會有一個機器人建立的 Issue，標題為：「[進度報告] 2018-xx-xx」，只要用你的 GitHub 帳號在這個 Issue 底下留言即可，你的留言會自動被同步到 Slack 中的群組，也會被記錄到 [Google 試算表](https://docs.google.com/spreadsheets/d/1-yuiwdubomd-q9S6oGTbje9QZG4bJW84vWcUqOcnz58/edit?usp=sharing)裡面。
 
 計畫的要求是一週必須有五天報告進度，原本預設是禮拜一二三四五，但如果你有別的時間安排，進度報告可以簡單寫一下你之後的安排預計是要學什麼，假設我預計每週挑一二三六日學習，那我週四的進度報告就可以這樣寫：
 
